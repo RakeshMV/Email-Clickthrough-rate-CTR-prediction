@@ -1,4 +1,4 @@
-# Email-Clickthrough-rate-CTR-prediction
+# Email-Clickthrough-rate-(CTR)-prediction
 ## Problem Statement
 Most organizations today rely on email campaigns for effective communication with users. Email communication is one of the popular ways to pitch products to users and build trustworthy relationships with them.
 
